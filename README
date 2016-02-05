@@ -1,0 +1,5 @@
+The purpose of this application is to display the entire set of lyrics
+to the old summer camp/bus ride tune - 99 Bottles of Beer. The application
+will run and, by use of a for loop, will repeat the lyrics subtracting
+a single number every time until the song reaches no more bottles of 
+beer, thus ending the song. 
